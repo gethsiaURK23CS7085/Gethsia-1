@@ -1,1 +1,1 @@
-Sample repository
+Sample - repository
